@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Todo from "./Todo";
-import TodoLists from "./TodoLists"
+
 
 ReactDOM.render(
   // <React.StrictMode>
